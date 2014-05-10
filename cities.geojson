@@ -1,4 +1,4 @@
-var cities = [
+[
     {
         "geometry": {
             "type": "Point", 
@@ -17744,4 +17744,4 @@ var cities = [
             "name": "עומר"
         }
     }
-];
+]
